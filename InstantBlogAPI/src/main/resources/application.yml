@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/instant_blog
-    username: root
-    password: "x18087477697"
+    username: 
+    password: 
   servlet:
     multipart:
       enabled: true
