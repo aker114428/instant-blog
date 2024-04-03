@@ -1,4 +1,8 @@
-# Instant-Blog
+# 基于生成式AI博客网站 Instant-Blog
+
+## 网站域名：instant-blog.top
+
+
 
 ## Project setup
 ```
